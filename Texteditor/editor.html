@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css">
+    <title>history Quotes</title>
+    <link href="style.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.5.0-beta4/html2canvas.min.js"></script>
+
+
+
+</head>
+
+<body>
+
+    <nav class="navbar bg-dark navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
+        <div class="container-fluid">
+            <h2 class="logo">Random<span class="span">Musings</span></h2>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent ms-auto">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-auto">
+                    <li class="nav-item ">
+                        <a class="nav-link active" aria-current="page" href="/Texteditor/editor.html">Editor</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " aria-disabled="true" href="/homepage/hompage.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Quotes/history/history.html">PopularQuotes</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " aria-disabled="true" href="/addQuote/">AddQuote</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " aria-disabled="true" href="/GetQuotes/getquotes.html">GetQuotes</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/abtUs/abts.html">Aboutus</a>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+
+
+    <h1 class="title"><span class="edit">Quote</span> editor</h1>
+    <form>
+        <div class="callout callout-default bg-secondary bg-gradient  bg-opacity-25">
+            <h4>Create and Edit Quotes</h4>
+            Easily compose, edit, and manage your collection of inspiring quotes. Make your content stand out with our intuitive quote editor.
+        </div>
+
+        <div class="container">
+            <div class="options">
+                <button type="button" class="option-button bold" data-toggle="tooltip" data-placement="bottom" title="Undo" data-toggle="tooltip" data-placement="bottom" title="bold">
+                    <i class="fa fa-bold" aria-hidden="true"></i>
+                </button>
+
+                <button type="button" class="option-button underline">
+                    <i class="fa fa-underline" aria-hidden="true" data-toggle="tooltip" data-placement="bottom" title="underline"></i>
+                </button>
+
+                <button type="button" class="option-button strikethrough">
+                    <i class="fa fa-strikethrough" aria-hidden="true" data-toggle="tooltip" data-placement="bottom" title="srikethrough"></i>
+                </button>
+
+                <button type="button" class="option-button italic">
+                    <i class="fa fa-italic" aria-hidden="true" data-toggle="tooltip" data-placement="bottom" title="italic"></i>
+                </button>
+                <button type="button" class="option-button list">
+                    <i class="fa fa-list" aria-hidden="true" data-toggle="tooltip" data-placement="bottom" title="list"></i>
+                </button>
+                <button type="button" class="option-button oderedlist">
+                    <i class="fa fa-list-ol" aria-hidden="true" data-toggle="tooltip" data-placement="bottom" title="orderedlist"></i>
+                </button>
+
+                <!-- undo/redo -->
+                <button type="button" class="option-button undo" data-toggle="tooltip" data-placement="bottom" title="undo">
+                    <i class="fa fa-undo" aria-hidden="true"></i>
+                </button>
+                <button type="button" class="option-button redo" data-toggle="tooltip" data-placement="bottom" title="redo">
+                    <i class="fa fa-repeat" aria-hidden="true"></i>
+                </button>
+
+                <!-- link -->
+                <select id="formatclass" class="adv-opt-btn" data-toggle="tooltip" data-placement="bottom" title="heading">
+                    <option value="h1">Heading-One</option>
+                    <option value="h2">Heading-Two</option>
+                    <option value="h3">Heading-Three</option>
+                    <option value="h4">Heading-Four</option>
+                    <option value="h5">Heading-Five</option>
+                    <option value="h6">Heading-Six</option>
+                </select>
+                <!-- font -->
+                <select id="fontName" class="adv-opt-btn"></select>
+                <select id="font-size" class="adv-opt-btn"></select>
+                </select>
+
+                <!-- color -->
+                <div class="input-wrapper" data-toggle="tooltip" data-placement="bottom" title="fontColor">
+                    <input type="color" id="foreColor" class="adv-opt-btn">
+                    <label for="foreColor"><span>Font Colour</span></label>
+                </div>
+                <div class="input-wrapper" data-toggle="tooltip" data-placement="bottom" title="backgroundColor">
+                    <input type="color" id="backColor" class="adv-opt-btn">
+                    <label for="backColor"><span>Background Colour</span></label>
+                </div>
+            </div>
+            <!-- ... (existing HTML content) ... -->
+
+            <div id="text-input" contenteditable="true"></div>
+            <div class="input-wrapper">
+                <button type="button" id="downloadImageBtn" class="option-button download-btn" data-toggle="tooltip" data-placement="bottom" title="Download">Download</button>
+
+            </div>
+    </form>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    <script src="editor.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('[data-toggle="tooltip"]').tooltip();
+        });
+    </script>
+
+</body>
+
+</html>

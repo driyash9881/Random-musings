@@ -1,0 +1,250 @@
+body {
+    font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    line-height: 19px;
+    align-items: center;
+}
+
+
+/*Fade in*/
+
+.color-change {
+    background-color: red;
+    transition: background-color 2s ease-in-out;
+}
+
+div#quoteContainer {
+    padding: 20px 20px;
+    margin: 0px 10px;
+    width: 70vw;
+}
+
+
+/* Color change effect */
+
+.color-change {
+    background-color: red;
+    transition: background-color 0.5s ease-in-out;
+}
+
+
+/* call_out */
+
+#info .callout-info {
+    width: 60%;
+    border-radius: 5px;
+    margin: 2% 5%;
+    padding: 20px 10px;
+    margin-left: 2rem;
+    margin-top: 2vh;
+    margin-bottom: -5vh;
+    font-family: "Roman";
+    font-size: 1.2em;
+}
+
+.logo {
+    margin-right: 100px;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #fff;
+    list-style: none;
+}
+
+.span {
+    color: #f0e88c;
+}
+
+.card-zoom {
+    transition: transform 0.2s;
+    /* Add a smooth transition for the transform property */
+}
+
+.card-zoom:hover {
+    transform: scale(1.05);
+    border: 1px solid rgba(0, 0, 0, 0.543);
+    /* Apply a scale transformation on hover to zoom in by 5% */
+}
+
+.quote-box {
+    background-color: rgba(205, 174, 50, 0.304);
+    border-radius: 5px;
+    margin: 40px 2px;
+    padding: 20px 10px;
+    border: none;
+}
+
+.quote-box .quote-text::before {
+    content: "“";
+    font-size: 3em;
+    line-height: 0;
+    padding-right: 10px;
+    vertical-align: -20px;
+}
+
+.quote-text {
+    font-family: "Merriweather", Georgia, "Times New Roman", serif;
+    margin: 0;
+    padding-left: 25px;
+    text-indent: -30px;
+}
+
+h1 {
+    font-family: "Merriweather", Georgia, "Times New Roman", serif;
+    font-size: 2em;
+    line-height: 26px;
+    font-weight: normal;
+    left: 6vw;
+    position: relative;
+    color: #123A3B;
+}
+
+.popularTags {
+    padding: 10px 10px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 90vw;
+    flex-wrap: wrap;
+}
+
+.labelList {
+    display: flex;
+    justify-content: space-be;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.labelListContainer .labelList .labelListItem {
+    background-color: #cec6c686;
+    border-radius: 5px;
+    font-size: 14px;
+    line-height: 1rem;
+    margin: 0 10px 10px 0;
+    padding: 1px 10px;
+    height: 20vh;
+}
+
+.labelListContainer .labelList li {
+    list-style-image: none;
+    list-style-type: none;
+    margin-left: 0;
+    display: -moz-inline-stack;
+    display: inline-block;
+    vertical-align: middle;
+    vertical-align: auto;
+    white-space: nowrap;
+}
+
+.pageContent.showQuotes .popularTags {
+    padding: 20px 10px;
+}
+
+h2 {
+    padding: 20px 0;
+    font-size: 16px;
+    line-height: 1.25em;
+    margin: 0 0 10px 0;
+    color: #403d3d;
+    font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+    font-weight: normal;
+    display: flex;
+    left: 5vw;
+    position: relative;
+}
+
+.labelListItem {
+    display: inline-block !important;
+}
+
+a {
+    color: #00635D;
+    text-decoration: none;
+}
+
+.shareButtonsDiv {
+    margin-top: -7%;
+    background-color: transparent;
+    animation: none;
+    gap: 5px;
+}
+
+.btn {
+    transition: 0.1s;
+    box-shadow: 0px 7px 5px rgba(0, 0, 0, 0.5);
+}
+
+.btn .fa {
+    color: #000000;
+    font-size: 25px;
+    transition: .5s;
+}
+
+.btn:hover {
+    cursor: pointer;
+    transition: all ease 0.5sec;
+    transform: rotate(0deg) skew(0deg) translate(0, -5px);
+}
+
+.btn:hover .fa-facebook {
+    color: #1877F2;
+}
+
+.btn:hover .fa-twitter {
+    color: #1DA1F2;
+    ;
+}
+
+.btn:hover .fa-whatsapp {
+    color: #25D366;
+}
+
+.btn:hover .fa-copy {
+    color: #777777;
+}
+
+.btn:hover .fa-instagram {
+    color: #E4405F;
+}
+
+
+/* Button-list */
+
+
+/* CSS */
+
+.button-74 {
+    background-color: rgba(205, 174, 50, 0.304);
+    border: 2px solid #422800;
+    border-radius: 30px;
+    box-shadow: #422800 4px 4px 0 0;
+    color: #422800;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 18px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.button-74:hover {
+    background-color: #fff;
+}
+
+.button-74:active {
+    box-shadow: #422800 2px 2px 0 0;
+    transform: translate(2px, 2px);
+}
+
+@media (min-width: 768px) {
+    .button-74 {
+        min-width: 120px;
+        padding: 0 25px;
+    }
+}

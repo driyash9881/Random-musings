@@ -1,0 +1,876 @@
+{
+    "categories": {
+        "popular": [{
+                "id": 1,
+                "quote": "The only way to do great work is to love what you do.",
+                "author": "Steve Jobs"
+
+            },
+            {
+                "id": 2,
+                "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+                "author": "Robert Frost"
+
+            }, {
+                "id": 3,
+                "quote": "Be yourself; everyone else is already taken.",
+                "author": "Oscar Wilde"
+
+            },
+            {
+                "id": 4,
+                "quote": "You miss 100% of the shots you don't take.",
+                "author": "Wayne Gretzky"
+
+            },
+            {
+                "id": 5,
+                "quote": "Life is really simple, but we insist on making it complicated.",
+                "author": "Confucius"
+
+            },
+            {
+                "id": 6,
+                "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+                "author": "Franklin D. Roosevelt"
+
+            },
+            {
+                "id": 7,
+                "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+                "author": "Ralph Waldo Emerson"
+            },
+            {
+                "id": 8,
+                "quote": "Success is not the key to happiness. Happiness is the key to success.",
+                "author": "Albert Schweitzer"
+            },
+            {
+                "id": 9,
+                "quote": "The best way to predict the future is to create it.",
+                "author": "Peter Drucker"
+            },
+            {
+                "id": 10,
+                "quote": "If you can dream it, you can do it.",
+                "author": "Walt Disney"
+            },
+            {
+                "id": 11,
+                "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+                "author": "Nelson Mandela"
+            },
+            {
+                "id": 12,
+                "quote": "The future belongs to those who believe in the beauty of their dreams.",
+                "author": "Eleanor Roosevelt"
+            },
+            {
+                "id": 13,
+                "quote": "In the middle of every difficulty lies opportunity.",
+                "author": "Albert Einstein"
+            },
+            {
+                "id": 14,
+                "quote": "A person who never made a mistake never tried anything new.",
+                "author": "Albert Einstein"
+            },
+
+            {
+                "id": 15,
+                "quote": "The only thing we have to fear is fear itself.",
+                "author": "Franklin D. Roosevelt"
+            },
+            {
+                "id": 16,
+                "quote": "Believe you can and you're halfway there.",
+                "author": "Theodore Roosevelt"
+            },
+            {
+                "id": 17,
+                "quote": "It does not matter how slowly you go as long as you do not stop.",
+                "author": "Confucius"
+            },
+            {
+                "id": 18,
+                "quote": "Life is 10% what happens to us and 90% how we react to it 20% with what we think about it and 80% with how we feel about it.",
+                "author": "unknown"
+            },
+            {
+                "id": 19,
+                "quote": "Your time is limited, don't waste it living someone else's life.",
+                "author": "Steve Jobs"
+            },
+            {
+                "id": 20,
+                "quote": "The only person you should try to be better than is the person you were yesterday.",
+                "author": "Unknown"
+
+            },
+            {
+                "id": 21,
+                "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+                "author": "Ralph Waldo Emerson"
+            },
+            {
+                "id": 22,
+                "quote": "You miss 100% of the shots you don't take.",
+                "author": "Wayne Gretzky"
+            },
+            {
+                "id": 23,
+                "quote": "Don't watch the clock; do what it does. Keep going.",
+                "author": "Sam Levenson"
+            },
+            {
+                "id": 24,
+                "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+                "author": "Franklin D. Roosevelt"
+            },
+            {
+                "id": 25,
+                "quote": "It always seems impossible until it's done.",
+                "author": "Nelson Mandela"
+            },
+            {
+                "id": 26,
+                "quote": "Success is not the key to happiness. Happiness is the key to success.",
+                "author": "Albert Schweitzer"
+            },
+            {
+                "id": 27,
+                "quote": "The best way to predict the future is to create it.",
+                "author": "Peter Drucker"
+            },
+            {
+                "id": 28,
+                "quote": "Strive not to be a success, but rather to be of value.",
+                "author": "Albert Einstein"
+            },
+            {
+                "id": 29,
+                "quote": "Life is really simple, but we insist on making it complicated.",
+                "author": "Confucius"
+            },
+            {
+                "id": 30,
+                "quote": "The best revenge is massive success.",
+                "author": "Frank Sinatra"
+            }
+        ],
+        "love": [{
+                "id": 1,
+                "quote": "Love is not finding someone to live with, it's finding someone you can't imagine living without.",
+                "author": "Unknown"
+            },
+            {
+                "id": 2,
+                "quote": "In all the world, there is no heart for me like yours. In all the world, there is no love for you like mine.",
+                "author": "Maya Angelou"
+            },
+            {
+                "id": 3,
+                "quote": "Love is composed of a single soul inhabiting two bodies.",
+                "author": "Aristotle"
+            },
+            {
+                "id": 4,
+                "quote": "The best thing to hold onto in life is each other.",
+                "author": "Audrey Hepburn"
+            },
+            {
+                "id": 5,
+                "quote": "I love you not because of who you are, but because of who I am when I am with you.",
+                "author": "Roy Croft"
+            },
+            {
+                "id": 5,
+                "quote": "Love is an endless act of forgiveness. Forgiveness is an endless act of love.",
+                "author": "Unknown"
+            },
+            {
+                "id": 6,
+                "quote": "To love is nothing. To be loved is something. But to love and be loved, that’s everything.",
+                "author": "T. Tolis"
+            },
+            {
+                "id": 7,
+                "quote": "I am who I am because of you. You are every reason, every hope, and every dream I’ve ever had.",
+                "author": "Nicholas Sparks"
+            },
+            {
+                "id": 8,
+                "quote": "If I had a flower for every time I thought of you, I could walk through my garden forever.",
+                "author": "Alfred Lord Tennyson"
+            },
+            {
+                "id": 9,
+                "quote": "The best love is the kind that awakens the soul and makes us reach for more, that plants a fire in our hearts and brings peace to our minds.",
+                "author": "Nicholas Sparks"
+            },
+            {
+                "id": 10,
+                "quote": "Love isn't something you find. Love is something that finds you.",
+                "author": "Loretta Young"
+            },
+            {
+                "id": 11,
+                "quote": "You are my heart, my life, my one and only thought.",
+                "author": "Arthur Conan Doyle"
+            },
+            {
+                "id": 12,
+                "quote": "To the world, you may be one person, but to one person you may be the world.",
+                "author": "Unknown"
+            },
+            {
+                "id": 13,
+                "quote": "I choose you. And I'll choose you over and over and over. Without pause, without a doubt, in a heartbeat. I'll keep choosing you.",
+                "author": "Unknown"
+            },
+            {
+                "id": 14,
+                "quote": "Love is not about how many days, months, or years you have been together. Love is about how much you love each other every single day.",
+                "author": "Unknown"
+            },
+            {
+                "id": 15,
+                "quote": "I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.",
+                "author": "Pablo Neruda"
+            },
+            {
+                "id": 16,
+                "quote": "Love is like the wind, you can't see it but you can feel it.",
+                "author": "Nicholas Sparks"
+            },
+            {
+                "id": 17,
+                "quote": "If you live to be a hundred, I want to live to be a hundred minus one day so I never have to live without you.",
+                "author": "A.A. Milne"
+            },
+            {
+                "id": 18,
+                "quote": "I have decided to stick to love...Hate is too great a burden to bear.",
+                "author": "Martin Luther King Jr."
+            },
+            {
+                "id": 19,
+                "quote": "Love is a canvas furnished by Nature and embroidered by imagination.",
+                "author": "Voltaire"
+            }, {
+                "id": 20,
+                "quote": "Love is an untamed force. When we try to control it, it destroys us. When we try to imprison it, it enslaves us. When we try to understand it, it leaves us feeling lost and confused.",
+                "author": "Paulo Coelho"
+            },
+            {
+                "id": 21,
+                "quote": "Love is not just looking at each other, it's looking in the same direction.",
+                "author": "Antoine de Saint-Exupéry"
+            },
+            {
+                "id": 22,
+                "quote": "Love is when the other person's happiness is more important than your own.",
+                "author": "H. Jackson Brown Jr."
+            },
+            {
+                "id": 23,
+                "quote": "Love is the master key that opens the gates of happiness.",
+                "author": "Oliver Wendell Holmes Sr."
+            },
+            {
+                "id": 24,
+                "quote": "To love and be loved is to feel the sun from both sides.",
+                "author": "David Viscott"
+            },
+            {
+                "id": 25,
+                "quote": "Love is like a friendship caught on fire. In the beginning, a flame, very pretty, often hot and fierce, but still only light and flickering. As love grows older, our hearts mature and our love becomes as coals, deep-burning and unquenchable.",
+                "author": "Bruce Lee"
+            },
+            {
+                "id": 26,
+                "quote": "Love is like a virus. It can happen to anybody at any time.",
+                "author": "Maya Angelou"
+            },
+            {
+                "id": 27,
+                "quote": "To love someone is to see a miracle invisible to others.",
+                "author": "François Mauriac"
+            },
+            {
+                "id": 28,
+                "quote": "You don't love someone for their looks, or their clothes, or for their fancy car, but because they sing a song only you can hear.",
+                "author": "Oscar Wilde"
+            },
+            {
+                "id": 29,
+                "quote": "The best love is the one that makes you a better person without changing you into someone other than yourself.",
+                "author": "Unknown"
+            }
+        ],
+        "humor": [{
+                "id": 1,
+                "quote": "I'm writing a book. I've got the page numbers done.",
+                "author": "Steven Wright"
+            },
+            {
+                "id": 2,
+                "quote": "I'm not arguing, I'm just explaining why I'm right.",
+                "author": "Unknown"
+            },
+            {
+                "id": 3,
+                "quote": "I'm on the seafood diet. I see food and I eat it.",
+                "author": "Unknown"
+            },
+            {
+                "id": 4,
+                "quote": "My doctor told me to watch my drinking. Now I drink in front of a mirror.",
+                "author": "Unknown"
+            },
+            {
+                "id": 5,
+                "quote": "I'm not lazy, I'm on energy-saving mode.",
+                "author": "Unknown"
+            }, {
+                "id": 5,
+                "quote": "I told my wife she was drawing her eyebrows too high. She seemed surprised.",
+                "author": "Unknown"
+            },
+            {
+                "id": 6,
+                "quote": "I used to play piano by ear, but now I use my hands.",
+                "author": "Unknown"
+            },
+            {
+                "id": 7,
+                "quote": "I'm not a vegetarian because I love animals. I'm a vegetarian because I hate plants.",
+                "author": "A. Whitney Brown"
+            },
+            {
+                "id": 8,
+                "quote": "My bed is a magical place where I suddenly remember everything I forgot to do.",
+                "author": "Unknown"
+            },
+            {
+                "id": 9,
+                "quote": "I'm not crazy. My reality is just different than yours.",
+                "author": "Cheshire Cat (Alice in Wonderland)"
+            }
+        ],
+        "anime": [{
+                "id": 1,
+                "quote": "I'm not a hero because I want your approval. I do it because I want to.",
+                "author": "Saitama - One Punch Man"
+            },
+            {
+                "id": 2,
+                "quote": "It's not the face that makes someone a monster. It's the choices they make with their lives.",
+                "author": "Naruto Uzumaki - Naruto"
+            },
+            {
+                "id": 3,
+                "quote": "No matter how deep the night, it always turns to day, eventually.",
+                "author": "Brook - One Piece"
+            },
+            {
+                "id": 4,
+                "quote": "No one knows what the future holds. That's why its potential is infinite.",
+                "author": "Rintarou Okabe - Steins;Gate"
+            },
+            {
+                "id": 5,
+                "quote": "I want to be a potato.",
+                "author": "Sasha Blouse - Attack on Titan"
+            },
+            {
+                "id": 6,
+                "quote": "It's okay not to be okay as long as you are willing to fight.",
+                "author": "Mirio Togata - My Hero Academia"
+            },
+            {
+                "id": 7,
+                "quote": "To know sorrow is not terrifying. What is terrifying is to know you can't go back to happiness you could have.",
+                "author": "Matsumoto Rangiku - Bleach"
+            },
+            {
+                "id": 8,
+                "quote": "People die if they are killed.",
+                "author": "Shirou Emiya - Fate/stay night"
+            },
+            {
+                "id": 9,
+                "quote": "A lesson without pain is meaningless. For you cannot gain something without sacrificing something else in return.",
+                "author": "Edward Elric - Fullmetal Alchemist"
+            },
+            {
+                "id": 10,
+                "quote": "The world is not beautiful, therefore it is.",
+                "author": "Kino - Kino's Journey"
+            },
+            {
+                "id": 11,
+                "quote": "If you have time to think of a beautiful end, then live beautifully until the end.",
+                "author": "Sakata Gintoki - Gintama"
+            },
+            {
+                "id": 12,
+                "quote": "It's not the face that makes someone a monster, it's the choices they make with their lives.",
+                "author": "Naruto Uzumaki - Naruto"
+            },
+            {
+                "id": 13,
+                "quote": "Whatever you lose, you'll find it again. But what you throw away you'll never get back.",
+                "author": "Kenshin Himura - Rurouni Kenshin"
+            },
+            {
+                "id": 14,
+                "quote": "The best way to predict the future is to create it.",
+                "author": "Peter Drucker"
+            },
+            {
+                "id": 15,
+                "quote": "Strive not to be a success, but rather to be of value.",
+                "author": "Albert Einstein"
+            },
+            {
+                "id": 16,
+                "quote": "Life is really simple, but we insist on making it complicated.",
+                "author": "Confucius"
+            },
+            {
+                "id": 17,
+                "quote": "The best revenge is massive success.",
+                "author": "Frank Sinatra"
+            }, {
+                "id": 18,
+                "quote": "The only ones who should kill are those who are prepared to be killed.",
+                "author": "Lelouch vi Britannia - Code Geass"
+            },
+            {
+                "id": 18,
+                "quote": "Even if I'm weak, I'll still use my fists to protect you.",
+                "author": "Natsu Dragneel - Fairy Tail"
+            },
+            {
+                "id": 20,
+                "quote": "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be.",
+                "author": "Ursula Callistis - Little Witch Academia"
+            },
+            {
+                "id": 21,
+                "quote": "It's not the face that makes someone a monster, it's the choices they make with their lives.",
+                "author": "Naruto Uzumaki - Naruto"
+            },
+            {
+                "id": 22,
+                "quote": "Whatever you lose, you'll find it again. But what you throw away you'll never get back.",
+                "author": "Kenshin Himura - Rurouni Kenshin"
+            },
+            {
+                "id": 23,
+                "quote": "If you have time to think of a beautiful end, then live beautifully until the end.",
+                "author": "Sakata Gintoki - Gintama"
+            },
+            {
+                "id": 24,
+                "quote": "The only way to deal with this life is to find someone who will love you for no reason.",
+                "author": "Hachiman Hikigaya - My Teen Romantic Comedy SNAFU"
+            },
+            {
+                "id": 25,
+                "quote": "It's not the face that makes someone a monster. It's the choices they make with their lives.",
+                "author": "Naruto Uzumaki - Naruto"
+            },
+            {
+                "id": 26,
+                "quote": "The only ones who should kill are those who are prepared to be killed.",
+                "author": "Lelouch vi Britannia - Code Geass"
+            },
+            {
+                "id": 27,
+                "quote": "Even if I'm weak, I'll still use my fists to protect you.",
+                "author": "Natsu Dragneel - Fairy Tail"
+            }
+        ],
+        "motivational": [{
+                "id": 1,
+                "quote": "Believe you can and you're halfway there.",
+                "author": "Theodore Roosevelt"
+            },
+            {
+                "id": 2,
+                "quote": "Don't watch the clock; do what it does. Keep going.",
+                "author": "Sam Levenson"
+            },
+            {
+                "id": 3,
+                "quote": "The future belongs to those who believe in the beauty of their dreams.",
+                "author": "Eleanor Roosevelt"
+            },
+            {
+                "id": 4,
+                "quote": "Success is not the key to happiness. Happiness is the key to success.",
+                "author": "Albert Schweitzer"
+            },
+            {
+                "id": 5,
+                "quote": "It always seems impossible until it's done.",
+                "author": "Nelson Mandela"
+            },
+            {
+                "id": 6,
+                "quote": "The only way to do great work is to love what you do.",
+                "author": "Steve Jobs"
+            },
+            {
+                "id": 7,
+                "quote": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+                "author": "Christian D. Larson"
+            },
+            {
+                "id": 9,
+                "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+                "author": "Franklin D. Roosevelt"
+            },
+            {
+                "id": 10,
+                "quote": "The harder the conflict, the greater the triumph.",
+                "author": "George Washington"
+            },
+            {
+                "id": 11,
+                "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+                "author": "Zig Ziglar"
+            },
+            {
+                "id": 12,
+                "quote": "The only person you should try to be better than is the person you were yesterday.",
+                "author": "Unknown"
+            },
+            {
+                "id": 13,
+                "quote": "You are never too old to set another goal or to dream a new dream.",
+                "author": "C.S. Lewis"
+            },
+            {
+                "id": 14,
+                "quote": "The harder I work, the luckier I get.",
+                "author": "Gary Player"
+            },
+            {
+                "id": 15,
+                "quote": "You miss 100% of the shots you don't take.",
+                "author": "Wayne Gretzky"
+            },
+            {
+                "id": 16,
+                "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+                "author": "Franklin D. Roosevelt"
+            },
+            {
+                "id": 17,
+                "quote": "The best way to predict the future is to create it.",
+                "author": "Peter Drucker"
+            },
+            {
+                "id": 18,
+                "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+                "author": "Winston Churchill"
+            },
+            {
+                "id": 19,
+                "quote": "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.",
+                "author": "Vince Lombardi"
+            },
+            {
+                "id": 20,
+                "quote": "The future depends on what you do today.",
+                "author": "Mahatma Gandhi"
+            },
+            {
+                "id": 21,
+                "quote": "The only thing standing between you and your dream is the will to try and the belief that it is actually possible.",
+                "author": "Joel Brown"
+            }
+        ],
+        "indianAuthors": [{
+                "id": 1,
+                "quote": "The bird is powered by its own life and by its motivation.",
+                "author": "A.P.J. Abdul Kalam"
+            },
+            {
+                "id": 2,
+                "quote": "You have to dream before your dreams can come true.",
+                "author": "A.P.J. Abdul Kalam"
+            },
+            {
+                "id": 2,
+                "quote": "The only way to do great work is to love what you do.",
+                "author": "Steve Jobs"
+            },
+            {
+                "id": 3,
+                "quote": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+                "author": "Christian D. Larson"
+            },
+            {
+                "id": 4,
+                "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+                "author": "Franklin D. Roosevelt"
+            },
+            {
+                "id": 5,
+                "quote": "The harder the conflict, the greater the triumph.",
+                "author": "George Washington"
+            },
+            {
+                "id": 5,
+                "quote": "The future depends on what you do today.",
+                "author": "Mahatma Gandhi"
+            },
+            {
+                "id": 6,
+                "quote": "Be the change that you wish to see in the world.",
+                "author": "Mahatma Gandhi"
+            },
+            {
+                "id": 7,
+                "quote": "The soul is neither born, and nor does it die.",
+                "author": "Bhagavad Gita"
+            },
+            {
+                "id": 8,
+                "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+                "author": "Mahatma Gandhi"
+            },
+            {
+                "id": 10,
+                "quote": "The whole world is a family.",
+                "author": "Mahatma Gandhi"
+            },
+            {
+                "id": 9,
+                "quote": "The mind is everything. What you think, you become.",
+                "author": "Gautama Buddha"
+            },
+            {
+                "id": 10,
+                "quote": "Happiness comes when your work and words are of benefit to yourself and others.",
+                "author": "Gautama Buddha"
+            },
+            {
+                "id": 11,
+                "quote": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+                "author": "Gautama Buddha"
+            }
+        ],
+        "shortPoetry": [{
+                "id": 1,
+                "quote": "Beneath the stars, our souls take flight,\nIn the realm of dreams, we find our light.",
+                "author": "Unknown"
+            },
+            {
+                "id": 2,
+                "quote": "Whispers of wind, secrets untold,\nNature's stories, written in gold.",
+                "author": "Unknown"
+            },
+            {
+                "id": 3,
+                "quote": "Morning dew on petals pure,\nA symphony of nature, so demure.",
+                "author": "Unknown"
+            },
+            {
+                "id": 4,
+                "quote": "Sunset's embrace, colors ignite,\nPainting the world with hues so bright.",
+                "author": "Unknown"
+            },
+            {
+                "id": 5,
+                "quote": "In your eyes, a universe I see,\nLove's constellation, forever free.",
+                "author": "Unknown"
+            },
+            {
+                "id": 6,
+                "quote": "Time's river flows, an endless song,\nCarrying memories, where they belong.",
+                "author": "Unknown"
+            },
+            {
+                "id": 7,
+                "quote": "Whispers of trees, wisdom they share,\nNature's library, open and rare.",
+                "author": "Unknown"
+            },
+            {
+                "id": 8,
+                "quote": "Moonlight's kiss on tranquil sea,\nLove's reflection, you and me.",
+                "author": "Unknown"
+            },
+            {
+                "id": 9,
+                "quote": "Stars above, dreams unfold,\nIn the night, stories of old.",
+                "author": "Unknown"
+            },
+            {
+                "id": 10,
+                "quote": "Silent echoes of hearts entwine,\nIn the dance of souls, you are mine.",
+                "author": "Unknown"
+            },
+            {
+                "id": 11,
+                "quote": "Footprints fade on sands of time,\nBut love's imprint remains, sublime.",
+                "author": "Unknown"
+            },
+            {
+                "id": 12,
+                "quote": "Raindrops fall, a soothing rhyme,\nNature's poetry, in every chime.",
+                "author": "Unknown"
+            },
+            {
+                "id": 13,
+                "quote": "Sunrise paints the world anew,\nHope arises, dreams come true.",
+                "author": "Unknown"
+            },
+            {
+                "id": 14,
+                "quote": "Life's journey, an open page,\nIn every step, a new stage.",
+                "author": "Unknown"
+            },
+            {
+                "id": 15,
+                "quote": "Autumn leaves, a tapestry bold,\nStories of change, in colors told.",
+                "author": "Unknown"
+            },
+            {
+                "id": 15,
+                "quote": "In the silence, stars converse,\nCosmic poetry, the universe.",
+                "author": "Unknown"
+            },
+            {
+                "id": 16,
+                "quote": "Love's melody, a gentle breeze,\nWhispering secrets through rustling trees.",
+                "author": "Unknown"
+            },
+            {
+                "id": 17,
+                "quote": "Heartbeats sync with ocean's roar,\nLove's rhythm echoes forevermore.",
+                "author": "Unknown"
+            },
+            {
+                "id": 18,
+                "quote": "Sky's canvas, painted with care,\nA masterpiece born from open air.",
+                "author": "Unknown"
+            },
+            {
+                "id": 19,
+                "quote": "Dreams take flight on night's embrace,\nStars and wishes interlace.",
+                "author": "Unknown"
+            }
+        ],
+        "lifeLessons": [{
+                "id": 1,
+                "quote": "Life is 10% what happens to us and 90% how we react to it.",
+                "author": "Charles R. Swindoll"
+            },
+            {
+                "id": 2,
+                "quote": "The only way to do great work is to love what you do.",
+                "author": "Steve Jobs"
+            },
+            {
+                "id": 3,
+                "quote": "Believe you can and you're halfway there.",
+                "author": "Theodore Roosevelt"
+            },
+            {
+                "id": 4,
+                "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+                "author": "Franklin D. Roosevelt"
+            },
+            {
+                "id": 5,
+                "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+                "author": "Winston Churchill"
+            },
+            {
+                "id": 6,
+                "quote": "Life's challenges are not supposed to paralyze you; they're supposed to help you discover who you are.",
+                "author": "Bernice Johnson Reagon"
+            },
+            {
+                "id": 7,
+                "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+                "author": "Nelson Mandela"
+            },
+            {
+                "id": 8,
+                "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+                "author": "Abraham Lincoln"
+            },
+            {
+                "id": 9,
+                "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+                "author": "Oscar Wilde"
+            },
+            {
+                "id": 10,
+                "quote": "The only person you should try to be better than is the person you were yesterday.",
+                "author": "Unknown"
+            },
+            {
+                "id": 11,
+                "quote": "Don't watch the clock; do what it does. Keep going.",
+                "author": "Sam Levenson"
+            },
+            {
+                "id": 12,
+                "quote": "Life is really simple, but we insist on making it complicated.",
+                "author": "Confucius"
+            },
+            {
+                "id": 13,
+                "quote": "The best revenge is massive success.",
+                "author": "Frank Sinatra"
+            },
+            {
+                "id": 13,
+                "quote": "The future depends on what you do today.",
+                "author": "Mahatma Gandhi"
+            },
+            {
+                "id": 14,
+                "quote": "The only person you should try to be better than is the person you were yesterday.",
+                "author": "Unknown"
+            },
+            {
+                "id": 15,
+                "quote": "Life is what happens when you're busy making other plans.",
+                "author": "John Lennon"
+            },
+            {
+                "id": 16,
+                "quote": "Success is not the key to happiness. Happiness is the key to success.",
+                "author": "Albert Schweitzer"
+            },
+            {
+                "id": 17,
+                "quote": "The best way to predict the future is to create it.",
+                "author": "Peter Drucker"
+            },
+            {
+                "id": 18,
+                "quote": "Strive not to be a success, but rather to be of value.",
+                "author": "Albert Einstein"
+            },
+            {
+                "id": 19,
+                "quote": "Life is 10% what happens to us and 90% how we react to it.",
+                "author": "Charles R. Swindoll"
+            },
+            {
+                "id": 20,
+                "quote": "Believe you can and you're halfway there.",
+                "author": "Theodore Roosevelt"
+            }
+        ]
+    }
+}
