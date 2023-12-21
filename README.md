@@ -3,7 +3,7 @@ Project Name: Random Musings Website
 Technologies: HTML, CSS, JavaScript, API, Bootstrap
 The Random Musings Website is a web application designed to provide users with a platform for exploring, generating, and editing inspirational quotes and musings. The website consists of three main modules:
 
-Certainly! Below is a simple project description for your "Random Musings" website with three modules: homepage, getQuotes page, and quotes editor page:
+**Certainly! Below is a simple project description for your "Random Musings" website with three modules: homepage, getQuotes page, and quotes editor page:**
 
 Random Musings Website
 Project Overview
